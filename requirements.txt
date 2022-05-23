@@ -21,16 +21,16 @@ brotlipy==0.7.0
 cairocffi==1.2.0
 CellPhoneDB==2.1.7
 certifi==2020.12.5
-cffi @ file:///tmp/build/80754af9/cffi_1606255122322/work
-chardet @ file:///tmp/build/80754af9/chardet_1605303192865/work
+cffi==1.14.4
+chardet==3.0.4
 click==6.7
 click-plugins==1.1.1
 cligj==0.7.1
 cloudpickle==1.6.0
 conda==4.9.2
-conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1605484832764/work
+conda-package-handling==1.7.2
 coverage==6.0.2
-cryptography @ file:///tmp/build/80754af9/cryptography_1607635322643/work
+cryptography==3.3.1
 cycler==0.10.0
 Cython==0.29.23
 dask==2021.5.0
@@ -60,9 +60,10 @@ geopandas==0.10.2
 geosketch==0.3
 get-version==2.2
 giddy==2.3.3
+graphviz==0.20
 h5py==2.10.0
 harmonypy==0.0.5
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna==2.10
 imageio==2.9.0
 inequality==1.0.0
 inflect==5.3.0
@@ -129,6 +130,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 pika==0.12.0
 Pillow==8.2.0
+pip==20.3.1
 pluggy==0.13.1
 pointpats==2.2.0
 prometheus-client==0.10.1
@@ -138,16 +140,16 @@ PuLP==2.5.1
 py==1.10.0
 pycairo==1.20.1
 pycosat==0.6.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser==2.20
 pygeos==0.10.2
 Pygments==2.8.1
 pynndescent==0.5.2
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1606517880428/work
+pyOpenSSL==20.0.0
 pyparsing==2.4.7
 pyproj==3.2.1
 pyrsistent==0.17.3
 pysal==2.5.0
-PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+PySocks==1.7.1
 pytest==6.2.4
 pytest-cov==3.0.0
 python-dateutil==2.8.0
@@ -161,28 +163,30 @@ quantecon==0.5.1
 quilt3==3.6.0
 rasterio==1.2.3
 rasterstats==0.15.0
-requests @ file:///tmp/build/80754af9/requests_1606691187061/work
+requests==2.25.0
 requests-futures==1.0.0
 requests-unixsocket==0.2.0
 rpy2==3.0.5
 Rtree==0.9.7
-ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1605527293619/work
+ruamel-yaml-conda==0.15.80
 rvlib==0.0.6
 s3transfer==0.5.0
 scanpy==1.8.1
 scikit-image==0.18.1
 scikit-learn==0.22
+scikit-misc==0.1.4
 scipy==1.6.3
 seaborn==0.11.1
 SecretStorage==2.3.1
 segregation==2.1.0
 Send2Trash==1.5.0
+setuptools==51.0.0.post20201207
 Shapely==1.7.1
 simplegeneric==0.8.1
 simplejson==3.17.5
 simpleSynapse==0.4
 sinfo==0.3.4
-six @ file:///tmp/build/80754af9/six_1605205306277/work
+six==1.15.0
 sniffio==1.2.0
 snuggs==1.4.7
 soupsieve==2.2.1
@@ -222,6 +226,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.2.1
 Werkzeug==2.0.1
+wheel==0.36.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 xarray==0.18.2
